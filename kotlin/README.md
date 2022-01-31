@@ -33,10 +33,3 @@ Ejemplos:
 
 El método `isLeapYear()` debe retornar verdadero si el año es bisiesto, falso en
 caso contrario.
-
-### 🔝 Extra
-
-Una vez finalizada la kata, apoyándonos en el método anterior:
-
-1. Mostrar los próximos 10 años bisiestos a partir del año actual
-   > Output: `[2024, 2028, 2032, 2036, 2040, 2044, 2048, 2052, 2056, 2060]`
